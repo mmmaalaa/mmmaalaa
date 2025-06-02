@@ -16,7 +16,6 @@ I'm a passionate **Backend Developer** currently diving deep into the world of s
 - **Node.js** & **Express.js** for server-side development
 - **MongoDB** & **Mongoose** for NoSQL database management
 - **SQL** for relational database design and queries
-- **Linux** and command-line tools for system administration
 
 💻 I'm focused on mastering the art of backend development, from API design to database optimization and everything in between!
 
@@ -41,7 +40,6 @@ I'm a passionate **Backend Developer** currently diving deep into the world of s
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -55,9 +53,9 @@ I'm a passionate **Backend Developer** currently diving deep into the world of s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mmmaalaa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=REPLACE_WITH_YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mmmaalaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -65,7 +63,7 @@ I'm a passionate **Backend Developer** currently diving deep into the world of s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -77,7 +75,7 @@ I'm a passionate **Backend Developer** currently diving deep into the world of s
 const mahmoudAlaa = {
     currentFocus: "Backend Development",
     learning: ["Node.js", "Express.js", "MongoDB", "Mongoose", "SQL"],
-    exploring: ["Linux", "Command Line Tools", "Database Optimization"],
+    exploring: ["Command Line Tools", "Database Optimization"],
     goals: [
         "Master RESTful API development",
         "Build scalable microservices",
@@ -96,9 +94,8 @@ const mahmoudAlaa = {
 
 I'm always excited to connect with fellow developers and discuss backend technologies!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lam668956@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mhmudalaa/)
 
 </div>
 
