@@ -55,9 +55,9 @@ I'm a passionate **Backend Developer** currently diving deep into the world of s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=REPLACE_WITH_YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -65,7 +65,7 @@ I'm a passionate **Backend Developer** currently diving deep into the world of s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 </div>
 
